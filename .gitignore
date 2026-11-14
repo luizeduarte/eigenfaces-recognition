@@ -1,0 +1,17 @@
+# ROS 2 / colcon build output
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Personal photos (not for a public repo)
+data/train/IMG_*
+data/test/IMG_*
+
+# Editor / OS
+.vscode/
+.DS_Store
